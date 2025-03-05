@@ -405,10 +405,3 @@ models:
 
 MIT
 
-## Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen bir Pull Request açın veya sorunlar için Issue oluşturun.
-
-## İletişim
-
-sorular@ornek.com 
