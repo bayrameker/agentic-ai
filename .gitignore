@@ -1,18 +1,2 @@
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-*.pyw
-*.pyz
-*.pywz
-
-
-*.log
-*.log.*
-*.log.*.*
-*.log.*.*.*
-*.log.*.*.*.*
-*.log.*.*.*.*.*
-*.log.*.*.*.*.*.*
 
 
