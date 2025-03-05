@@ -1,0 +1,25 @@
+# Core dependencies
+requests>=2.28.0
+pyyaml>=6.0
+
+# Optional LLM API dependencies (uncomment as needed)
+# openai>=1.0.0  # For OpenAI GPT models
+# anthropic>=0.7.0  # For Claude models
+# google-generativeai>=0.3.0  # For Gemini models
+# mistralai>=0.0.6  # For Mistral AI models
+
+# Local model dependencies (uncomment as needed)
+# ollama>=0.1.5  # For local models like Llama 3, Mixtral, etc.
+# transformers>=4.30.0  # For Hugging Face models
+# llama-cpp-python>=0.2.0  # For running LLaMA models locally
+# accelerate>=0.21.0  # For GPU acceleration
+# torch>=2.0.0  # For PyTorch-based models
+
+# Error handling and utilities
+tenacity>=8.2.2  # For retrying API calls
+jsonschema>=4.17.3  # For JSON validation
+rich>=13.3.5  # For improved console output
+
+# Utilities
+python-dotenv>=1.0.0  # For environment variable management
+tqdm>=4.65.0  # For progress bars 
